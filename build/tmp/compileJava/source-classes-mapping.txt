@@ -1,0 +1,16 @@
+Application/SocialShare.java
+ Application.SocialShare
+Application/ShareStrategy.java
+ Application.ShareStrategy
+Application/EmailShare.java
+ Application.EmailShare
+Domain/PhoneCameraApp.java
+ Domain.PhoneCameraApp
+Application/TxtShare.java
+ Application.TxtShare
+Domain/BasicCameraApp.java
+ Domain.BasicCameraApp
+Infrastructure/CameraAppSimulator.java
+ Infrastructure.CameraAppSimulator
+Domain/CameraPlusApp.java
+ Domain.CameraPlusApp
